@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Pranshu! 👋</h1>
-<h3 align="center">A curious MERN developer, AI enthusiast.</h3>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif"  />
 </div>
 
+<h3 align="center">A curious MERN developer, AI enthusiast.</h3>
 - 🔭 I’m currently working on [Flock](github.com/pranshu0604/flock)
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **MERN**
