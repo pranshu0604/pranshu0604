@@ -1,13 +1,6 @@
 <h1 align="center">Hi , I'm Pranshu! 👋</h1>
 <h3 align="center">A curious MERN developer, AI enthusiast.</h3>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshu0604&show_icons=true&locale=en&theme=tokyonight" alt="pranshu0604" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu0604&theme=tokyonight" alt="pranshu0604" /></p>
-
 - 🔭 I’m currently working on [Flock](github.com/pranshu0604/flock)
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **MERN**
@@ -17,6 +10,13 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif"  />
 </div>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshu0604&show_icons=true&locale=en&theme=tokyonight" alt="pranshu0604" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu0604&theme=tokyonight" alt="pranshu0604" /></p>
 
 # 🌐 Socials:
 <div> <a href="https://twitter.com/notoriouspran" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
