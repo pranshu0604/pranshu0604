@@ -5,11 +5,11 @@
 </div>
 
 <h3 align="center">A curious MERN developer, AI enthusiast.</h3>
+###
 - 🔭 I’m currently working on [Flock](github.com/pranshu0604/flock)
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **MERN**
 
-###
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 />
