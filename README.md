@@ -55,7 +55,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/>
 
 ### 🔝 Top Contributed Repo
-<center>![](https://github-contributor-stats.vercel.app/api?username=pranshu0604&limit=5&theme=dark&combine_all_yearly_contributions=true)</center>
+![](https://github-contributor-stats.vercel.app/api?username=pranshu0604&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
