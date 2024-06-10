@@ -13,9 +13,9 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 />
+<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 /> -->
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshu0604&show_icons=true&locale=en&theme=tokyonight" alt="pranshu0604" /></p>
+<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshu0604&show_icons=true&locale=en&theme=tokyonight" alt="pranshu0604" /></p> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu0604&theme=tokyonight" alt="pranshu0604" /></p>
 
@@ -32,7 +32,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu0604&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu0604" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu0604&theme=tokyonight" alt="pranshu0604" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu0604&theme=tokyonight" alt="pranshu0604" /></a> </p> -->
 
 
 
@@ -44,14 +44,15 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/pranshu0604">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranshu0604&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranshu0604&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranshu0604&theme=tokyonight" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/>
 
 ### 🔝 Top Contributed Repo
