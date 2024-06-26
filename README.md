@@ -53,7 +53,7 @@
 <!-- </div> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/> --> -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/> -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranshu0604&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
