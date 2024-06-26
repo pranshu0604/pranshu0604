@@ -12,12 +12,12 @@
 - 💬 Ask me about **MERN**
 
 
-<h3 align="left">Stars</h3>
+<!-- <h3 align="left">Stars</h3> -->
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu0604&layout=compact&theme=tokyonight" alt=pranshu0604 /> -->
 
 <!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshu0604&show_icons=true&locale=en&theme=tokyonight" alt="pranshu0604" /></p> -->
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu0604&theme=tokyonight" alt="pranshu0604" /></p>
+<!-- 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu0604&theme=tokyonight" alt="pranshu0604" /></p> -->
 
 # 🌐 Socials:
 <div> <a href="https://twitter.com/notoriouspran" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -38,25 +38,25 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0bmbwK98OIKQc-kRG1AYJ8wt8xqtqcfdR2UlpuyG&s"  />
-</div>
+</div> -->
 
 ###
 
-<h3 align="center">Statistics</h3>
+<!-- <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/pranshu0604">
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranshu0604&theme=2077" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranshu0604&theme=tokyonight" height="180em" />
-</div>
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranshu0604&theme=tokyonight" height="180em" /> -->
+<!-- </div> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/>
+<!-- <h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu0604&theme=react-dark"/> --> -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranshu0604&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pranshu0604&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 
 
