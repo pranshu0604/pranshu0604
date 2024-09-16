@@ -7,7 +7,7 @@
 
 
 ###
-- 🔭 I’m currently working on [Flock](github.com/pranshu0604/flock)
+- 🔭 I’m currently working on Client Projects
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **MERN**
 
